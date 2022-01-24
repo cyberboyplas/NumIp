@@ -6,7 +6,7 @@ Ver ip de cualquier numero, Programado por el Hacker Sensei
 
 `termux-setup-storage`
 
-darle a perminir en la ventana que nos aparezca con permisos de almacenamiento
+darle a permitir en la ventana que nos aparezca con permisos de almacenamiento
 
 `pkg install git`
 
