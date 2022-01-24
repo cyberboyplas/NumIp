@@ -24,6 +24,8 @@ darle a permitir en la ventana que nos aparezca con permisos de almacenamiento
 
 <img src= https://github.com/WhBeatZ/NumIp/blob/main/files/foto1.png height="300"/>
 
+<img src= https://github.com/WhBeatZ/NumIp/blob/main/files/foto2.png height="300"/>
+
 _______________________________________________________________
 _______________________________________________________________
 _______________________________________________________________
@@ -44,3 +46,5 @@ _______________________________________________________________
 
 - Elimina la carpeta "storage"
 - Elimina todos las carpetas de herrmientas de Termux
+
+<img src= https://github.com/WhBeatZ/NumIp/blob/main/files/foto3.png height="300"/>
