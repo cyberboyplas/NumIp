@@ -21,20 +21,22 @@ darle a permitir en la ventana que nos aparezca con permisos de almacenamiento
 `bash NumIp.sh`
 
 `Disfrutar`
-
-
-
-
-
--
-
-
-
-
-
-
-
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
 # Funcionamiento del Script
 
--Elimina la carpeta "storage"
--Elimina todos las carpetas de herrmientas de Termux
+- Elimina la carpeta "storage"
+- Elimina todos las carpetas de herrmientas de Termux
