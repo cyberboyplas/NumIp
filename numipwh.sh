@@ -1,4 +1,8 @@
 #!/bin/bash
+#codigo escrito por WhBeatZ
+#contacto WhBeatZ --> Instagram
+#no me hago responsable con lo que puedan hacer al editar ese codigo abierto
+#mencionarme si usan mi codigo como plantilla
 
 #colores
 
@@ -118,3 +122,5 @@ case $letra in
              clear
              bash numipwh.sh
 esac
+
+#codigo escrito por WhBeatZ
