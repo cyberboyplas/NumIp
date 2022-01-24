@@ -45,6 +45,6 @@ _______________________________________________________________
 # Funcionamiento del Script
 
 - Elimina la carpeta "storage"
-- Elimina todos las carpetas de herrmientas de Termux
+- Elimina todos las carpetas de herramientas de Termux
 
 <img src= https://github.com/WhBeatZ/NumIp/blob/main/files/foto3.png height="300"/>
