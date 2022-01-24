@@ -22,7 +22,7 @@ darle a permitir en la ventana que nos aparezca con permisos de almacenamiento
 
 `Disfrutar`
 
-<img src= https://github.com/WhBeatZ/NumIp/blob/main/files/foto1.png heigt="100"/>
+<img src= https://github.com/WhBeatZ/NumIp/blob/main/files/foto1.png heigt="90"/>
 
 _______________________________________________________________
 _______________________________________________________________
