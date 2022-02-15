@@ -16,9 +16,9 @@ darle a permitir en la ventana que nos aparezca con permisos de almacenamiento
 
 `cd NumIp`
 
-`chmod +x NumIp.sh`
+`chmod +x numipwh.sh`
 
-`bash NumIp.sh`
+`bash numipwh.sh`
 
 `Disfrutar`
 
